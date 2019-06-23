@@ -1,7 +1,7 @@
 # Boston-Housing
 Boston House Price Prediction (Python) <br />
 Being a real estate agent, one always wants to find the best house deal for their clients. In order to do so, the best they can do is study the market very well and understand which all factors can lead to what price of a house. <br />
-To make things simpler for them and to help them gain and retain their clients, a statistical technique, called regression, can do this task and save them a lot of time and efforts. <br />
+To make things simpler and to help them gain and retain their clients, a statistical technique, called regression, can do this task saving a lot of time and efforts for the agents. <br />
 In this project, we aim at estimating the house prices in Boston area using linear regression technique. <br />
 In this case, linear regression has succesully achieved an accuracy of 73% (R^2 = 0.73). This means, using this statistical model, one can estimate the correct house price (in Boston) 73% of the time. <br />
 
