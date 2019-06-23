@@ -29,11 +29,9 @@ Here, __medv__ is the target variable.
 # Prerequisite
 The project was developed using jupyter notebook (version 4.4.0) with Python 3. <br />
 To run this project, following libraries needs to be installed - 
-* Numpy
 * Pandas
 * Matplotlib
-* Missingno
 * Seaborn
 * Sklearn
-* Statsmodel
+* Statsmodels
 
