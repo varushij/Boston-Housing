@@ -3,7 +3,7 @@ Boston House Price Prediction (Python) <br />
 Being a real estate agent, one always wants to find the best house deal for their clients. In order to do so, the best they can do is study the market very well and understand which all factors can lead to what price of a house. <br />
 To make things simpler and to help them gain and retain their clients, a statistical technique, called regression, can do this task saving a lot of time and efforts for the agents. <br />
 In this project, we aim at estimating the house prices in Boston area using linear regression technique. <br />
-In this case, multiple linear regression has succesully achieved an accuracy of 62.7% (R^2 = 0.6278) and a RMSE value of 5.587. <br /> This means, using this statistical model, one can estimate the correct house price (in Boston) 62.7% of the time. <br />
+In this case, LassoCV regression has succesully achieved an accuracy of 62.7% (R^2 = 0.6278) and a RMSE value of 5.587. <br /> This means, using this statistical model, one can estimate the correct house price (in Boston) 62.7% of the time. <br />
 
 # Dataset:
 The data set was taken from https://www.kaggle.com/c/boston-housing  <br />
